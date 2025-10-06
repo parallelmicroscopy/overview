@@ -4,6 +4,12 @@ These pages describe software and hardware for building your own <b>Random Acces
 
 ### concept
 
+A conventional modern microscope has an objective lens focused on each sample, and a collecting optic (i.e. a tube lens) that refocuses the light onto your eye or camera. One strategy for imaging many different samples would be to have many microscopes, each with its own sample; but this means you need a camera for every microscope. The approach used here is to instead construct a *parallel* microscope. The parallel microscope is conceptually like an an array of individual microscopes, with the difference that all share the same collecting optic and camera.  The system also includes a switchable light source (an array of LEDS), so samples can be illuminated one-at-a-time. Using a fast camera and LED array, we can image samples quickly enough to effectively make measurements from many samples in parallel.
+
+<center><img width="251" height="369" alt="image" src="https://github.com/user-attachments/assets/80ca4653-f0e6-4882-82da-669f8fc84c7b" /></center>
+
+<br>
+<br>
 The original open-access concept paper is here:
 
 https://elifesciences.org/articles/56426

@@ -41,6 +41,10 @@ Several additional labs are actively involved in aspects of the microscope's dev
 - https://coplweb.ca/membres/simon-thibault/
 - https://www.strath.ac.uk/staff/mcconnellgailprof/
 
+### teaching / design
+
+Two senior undergraduate desgign teams in the University of Madison-Wisconsin are working on the next generation RAP microscope. Check this page and https://seniordesign.me.wisc.edu/ for updates.
+
 ### commercial version
 
 If you want to purchase a commercial parallel microscope instead of building your own, Cairn Research (http://www.cairn-research.co.uk)

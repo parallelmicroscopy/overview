@@ -45,7 +45,7 @@ Several additional labs are actively involved in aspects of the microscope's dev
 
 ### teaching / design
 
-Two senior undergraduate desgign teams in the University of Madison-Wisconsin are working on the next generation RAP microscope. Check this page and https://seniordesign.me.wisc.edu/ for updates.
+Two senior undergraduate desgign teams in the University of Madison-Wisconsin are working on the next generation open-source RAP microscope. Check these pages and https://seniordesign.me.wisc.edu/ for updates.
 
 ### commercial version
 

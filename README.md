@@ -21,9 +21,11 @@ Ashraf M, Mohanan S, Sim BR, Tam A, Rahemipour K, Brousseau D, Thibault S, Corbe
 ### open source hardware and software
 
 An open-source 24 well version can be built using a mix of 3D printed parts and commercially available optics, optomechanics and cameras.<br>
+
 For **hardware** see: https://github.com/parallelmicroscopy/24-well-RAP-hardware<br>
 For **software** see: https://github.com/parallelmicroscopy/RAP-software
 
+The hardware and software are rapidly evolving, so please check with [gil.bub@mcgill.ca](mailto:gil.bub@mcgill.ca) before starting your build.
 
 ### labs
 

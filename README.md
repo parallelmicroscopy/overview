@@ -29,7 +29,7 @@ The hardware and software are rapidly evolving, so please check with [gil.bub@mc
 
 ### labs
 
-The following labs have built their own versions of the microscope:
+The following labs have built their own versions of the microscope, some with unique capabilities:
 
 - https://gil-bub.lab.mcgill.ca/
 - https://www.corbettlab.com/

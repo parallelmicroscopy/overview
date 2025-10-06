@@ -4,13 +4,15 @@ These pages describe software and hardware for building your own <b>Random Acces
 
 ### concept
 
-A conventional modern microscope has an objective lens focused on each sample, and a collecting optic (i.e. a tube lens) that refocuses the light onto your eye or camera. One strategy for imaging many different samples would be to have many microscopes, each with its own sample; but this means you need a camera for every microscope. The approach used here is to instead construct a *parallel* microscope. The parallel microscope is conceptually like an an array of individual microscopes, with the difference that all share the same collecting optic and camera.  The system also includes a switchable light source (an array of LEDS), so samples can be illuminated one-at-a-time. Using a fast camera and LED array, we can image samples quickly enough to effectively make measurements from many samples in parallel.
+A conventional modern microscope has an objective lens focused on each sample, and a collecting optic (i.e. a tube lens) that refocuses the light onto your eye or camera. One strategy for imaging many different samples would be to have many microscopes, each with its own sample; but this means you need a camera for every microscope. The approach used here is to instead construct a *parallel* microscope. The parallel microscope is conceptually like an an array of individual microscopes, with the difference that all share the same collecting optic and camera.  The system also includes a switchable light source (an array of LEDS), so samples can be illuminated, imaged by the camera, one-at-a-time. Using a fast camera and LED array, we can image samples quickly enough to effectively make measurements from many samples in parallel. The system can capture an entire 24-well plate at full resolution in under 0.1 seconds.
 
-<center><img width="251" height="369" alt="image" src="https://github.com/user-attachments/assets/80ca4653-f0e6-4882-82da-669f8fc84c7b" /></center>
+<img width="1126" height="373" alt="image" src="https://github.com/user-attachments/assets/25f0a2c5-f09a-4eb3-b6a0-7a827926e4a1" />
+
+
 
 <br>
 <br>
-The original open-access concept paper is here:
+The original open-access paper is here:
 
 https://elifesciences.org/articles/56426
 
@@ -41,6 +43,8 @@ Several additional labs are actively involved in aspects of the microscope's dev
 
 ### commercial version
 
-Want to purchase one? See https://cairn-research.co.uk/company-news/partners-with-dr-alex-corbett/
+If you want to purchase a commercial parallel microscope instead of building your own, Cairn Research (http://www.cairn-research.co.uk)
+has a great one. Contact sales@cairn-research.co.uk.
+
 
 

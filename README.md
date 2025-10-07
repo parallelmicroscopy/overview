@@ -8,8 +8,6 @@ Most modern microscopes have an objective lens focused on each sample, and a col
 
 <img width="1126" height="373" alt="image" src="https://github.com/user-attachments/assets/25f0a2c5-f09a-4eb3-b6a0-7a827926e4a1" />
 
-
-
 <br>
 <br>
 The original open-access paper is here:
@@ -35,7 +33,7 @@ The following labs have built their own versions of the microscope, some with un
 - https://www.corbettlab.com/
 - https://www.gla.ac.uk/schools/physics/staff/carolinemuellenbroich/#researchinterests
 
-Several additional labs are actively involved in aspects of the microscope's development:
+Several labs are actively involved in improving specific aspects of the microscope hardware and software:
 
 - https://www.flc-lab.com/
 - https://apps.ualberta.ca/directory/person/komarova
